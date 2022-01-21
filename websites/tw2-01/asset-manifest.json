@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/d9-restaurant/websites/tw2-01/static/css/main.fd1ae0e7.chunk.css",
+    "main.js": "/d9-restaurant/websites/tw2-01/static/js/main.678c9e45.chunk.js",
+    "main.js.map": "/d9-restaurant/websites/tw2-01/static/js/main.678c9e45.chunk.js.map",
+    "runtime-main.js": "/d9-restaurant/websites/tw2-01/static/js/runtime-main.ba88c37f.js",
+    "runtime-main.js.map": "/d9-restaurant/websites/tw2-01/static/js/runtime-main.ba88c37f.js.map",
+    "static/js/2.0bb3c840.chunk.js": "/d9-restaurant/websites/tw2-01/static/js/2.0bb3c840.chunk.js",
+    "static/js/2.0bb3c840.chunk.js.map": "/d9-restaurant/websites/tw2-01/static/js/2.0bb3c840.chunk.js.map",
+    "index.html": "/d9-restaurant/websites/tw2-01/index.html",
+    "static/css/main.fd1ae0e7.chunk.css.map": "/d9-restaurant/websites/tw2-01/static/css/main.fd1ae0e7.chunk.css.map",
+    "static/js/2.0bb3c840.chunk.js.LICENSE.txt": "/d9-restaurant/websites/tw2-01/static/js/2.0bb3c840.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba88c37f.js",
+    "static/js/2.0bb3c840.chunk.js",
+    "static/css/main.fd1ae0e7.chunk.css",
+    "static/js/main.678c9e45.chunk.js"
+  ]
+}
